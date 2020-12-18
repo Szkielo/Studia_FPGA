@@ -1,0 +1,56 @@
+C:/intelFPGA_workbench/sim_processor/RAM1PORT.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_workbench/sim_processor/RAM1PORT.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package altera_mf_components
+-- Compiling entity RAM1PORT
+-- Compiling architecture SYN of ram1port
+
+} {} {}} C:/intelFPGA_workbench/sim_processor/CPU_Architecture.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_workbench/sim_processor/CPU_Architecture.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity CPU_Architecture
+-- Compiling architecture join of CPU_Architecture
+
+} {} {}} C:/intelFPGA_workbench/sim_processor/ALU.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_workbench/sim_processor/ALU.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture rtl of ALU
+
+} {} {}} C:/intelFPGA_workbench/sim_processor/Rejestry.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_workbench/sim_processor/Rejestry.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Rejestry
+-- Compiling architecture rtl of Rejestry
+
+} {} {}} C:/intelFPGA_workbench/sim_processor/Jednostka_sterujaca.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_workbench/sim_processor/Jednostka_sterujaca.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Jednostka_sterujaca
+-- Compiling architecture rtl of Jednostka_sterujaca
+
+} {} {}} C:/intelFPGA_workbench/sim_processor/Wspolpraca_z_pamiecia.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_workbench/sim_processor/Wspolpraca_z_pamiecia.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Wspolpraca_z_pamiecia
+-- Compiling architecture rtl of Wspolpraca_z_pamiecia
+
+} {} {}}

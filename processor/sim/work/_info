@@ -1,0 +1,258 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_workbench/lab7_procesor_vhdl/simulation/modelsim
+Ealu
+Z0 w1590748466
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/intelFPGA_workbench/sim_processor
+Z5 8C:/intelFPGA_workbench/sim_processor/ALU.vhd
+Z6 FC:/intelFPGA_workbench/sim_processor/ALU.vhd
+l0
+L5
+VYzcF`EKG2G5iI^3kgj=<z1
+!s100 J^le4cR?l>ZYoYF=hdC5b1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1590761695
+!i10b 1
+Z9 !s108 1590761695.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_workbench/sim_processor/ALU.vhd|
+Z11 !s107 C:/intelFPGA_workbench/sim_processor/ALU.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Artl
+R1
+R2
+R3
+DEx4 work 3 alu 0 22 YzcF`EKG2G5iI^3kgj=<z1
+l18
+L17
+V42>^`>B<TC>Id6?MO^BTi3
+!s100 `ih^YnLo`3mT0eP`iZJCh0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Ecpu_architecture
+Z14 w1590748968
+R1
+R2
+R3
+R4
+Z15 8C:/intelFPGA_workbench/sim_processor/CPU_Architecture.vhd
+Z16 FC:/intelFPGA_workbench/sim_processor/CPU_Architecture.vhd
+l0
+L5
+VLjK4[ITg=V<V2R0N=4I4O2
+!s100 MaM@KDz]IHF17L^i<n<0=2
+R7
+32
+R8
+!i10b 1
+R9
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_workbench/sim_processor/CPU_Architecture.vhd|
+Z18 !s107 C:/intelFPGA_workbench/sim_processor/CPU_Architecture.vhd|
+!i113 1
+R12
+R13
+Ajoin
+R1
+R2
+R3
+DEx4 work 16 cpu_architecture 0 22 LjK4[ITg=V<V2R0N=4I4O2
+l90
+L12
+VUGlXL_TK=aZOQdVAUb]892
+!s100 ;L^EIfz`jJ_;f?dcn^n>X0
+R7
+32
+R8
+!i10b 1
+R9
+R17
+R18
+!i113 1
+R12
+R13
+Ejednostka_sterujaca
+Z19 w1590748966
+R1
+R2
+R3
+R4
+Z20 8C:/intelFPGA_workbench/sim_processor/Jednostka_sterujaca.vhd
+Z21 FC:/intelFPGA_workbench/sim_processor/Jednostka_sterujaca.vhd
+l0
+L5
+V6OV7a;YVR1mEkbKY>Be5l3
+!s100 =fWS<;AdGcdnF`@b<m>GX1
+R7
+32
+Z22 !s110 1590761696
+!i10b 1
+Z23 !s108 1590761696.000000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_workbench/sim_processor/Jednostka_sterujaca.vhd|
+Z25 !s107 C:/intelFPGA_workbench/sim_processor/Jednostka_sterujaca.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 19 jednostka_sterujaca 0 22 6OV7a;YVR1mEkbKY>Be5l3
+l87
+L19
+VkTMR5Kcl7l;EJo39^UHFT3
+!s100 2ZGa6<VGV9C6<`4VFV5cj0
+R7
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R12
+R13
+Eram1port
+Z26 w1590749087
+Z27 DPx9 altera_mf 20 altera_mf_components 0 22 @6M>I48X_jBQDo@?W=TN93
+R1
+R2
+R3
+R4
+Z28 8C:/intelFPGA_workbench/sim_processor/RAM1PORT.vhd
+Z29 FC:/intelFPGA_workbench/sim_processor/RAM1PORT.vhd
+l0
+L44
+V`c=;6_GIG2kYh9Mnl3L262
+!s100 >eZo;nCN?DS]8QA8CIbfS3
+R7
+32
+R22
+!i10b 1
+R23
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_workbench/sim_processor/RAM1PORT.vhd|
+Z31 !s107 C:/intelFPGA_workbench/sim_processor/RAM1PORT.vhd|
+!i113 1
+R12
+R13
+Asyn
+R27
+R1
+R2
+R3
+DEx4 work 8 ram1port 0 22 `c=;6_GIG2kYh9Mnl3L262
+l61
+L57
+VM8Kl75IK7D1BTX6bPW<^?1
+!s100 0J;GD>@LDUm[_DgQS4Hn63
+R7
+32
+R22
+!i10b 1
+R23
+R30
+R31
+!i113 1
+R12
+R13
+Erejestry
+Z32 w1590748436
+R1
+R2
+R3
+R4
+Z33 8C:/intelFPGA_workbench/sim_processor/Rejestry.vhd
+Z34 FC:/intelFPGA_workbench/sim_processor/Rejestry.vhd
+l0
+L5
+VANM0mcV[PhD=5DQPKjL?X0
+!s100 77aeJb_FegjS;a3OIllo?2
+R7
+32
+R22
+!i10b 1
+R23
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_workbench/sim_processor/Rejestry.vhd|
+Z36 !s107 C:/intelFPGA_workbench/sim_processor/Rejestry.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+Z37 DEx4 work 8 rejestry 0 22 ANM0mcV[PhD=5DQPKjL?X0
+l24
+L23
+Z38 VCh^J:]3T:VUcmcL3Ig3^@2
+Z39 !s100 iNOnEljU0852emRKgmmIz1
+R7
+32
+R22
+!i10b 1
+R23
+R35
+R36
+!i113 1
+R12
+R13
+Ewspolpraca_z_pamiecia
+Z40 w1590744890
+R1
+R2
+R3
+R4
+Z41 8C:/intelFPGA_workbench/sim_processor/Wspolpraca_z_pamiecia.vhd
+Z42 FC:/intelFPGA_workbench/sim_processor/Wspolpraca_z_pamiecia.vhd
+l0
+L5
+VT<dVgnBz7FHzgNE0Bk?XZ2
+!s100 z5Xn=OjZhijX^n8feEPIH1
+R7
+32
+R8
+!i10b 1
+R9
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/intelFPGA_workbench/sim_processor/Wspolpraca_z_pamiecia.vhd|
+Z44 !s107 C:/intelFPGA_workbench/sim_processor/Wspolpraca_z_pamiecia.vhd|
+!i113 1
+R12
+R13
+Artl
+R1
+R2
+R3
+DEx4 work 21 wspolpraca_z_pamiecia 0 22 T<dVgnBz7FHzgNE0Bk?XZ2
+l18
+L17
+ViY_9HQ3J_HJA]zjdBTihU3
+!s100 SB<nn4Z3jLcej?48QkCc03
+R7
+32
+R8
+!i10b 1
+R9
+R43
+R44
+!i113 1
+R12
+R13
